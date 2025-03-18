@@ -9,13 +9,10 @@ This simple blog was created from scratch in order to gain experience and unders
 
 ### 🔧 Work in Progress
 Currently experimenting with and working on improving my GitHub repos and their respective ReadMe files to become better at documenting  :)
+
 ## 📸 Screenshots
-
-![App Screenshot](https://github.com/ImGladieToMeetYou/BookBlog/blob/main/Images/README/BookBlog1.png)
-![App_Screenshot](https://github.com/ImGladieToMeetYou/BookBlog/blob/main/Images/README/BookBlog2.png)
-
-
-
+<img src="https://github.com/ImGladieToMeetYou/BookBlog/blob/main/Images/README/BookBlog1.png" alt="Description" width="500" height="300"/>
+<img src="https://github.com/ImGladieToMeetYou/BookBlog/blob/main/Images/README/BookBlog2.png" alt="Description" width="500" height="300"/>
 
 ## 🕹 Tech Stack
 
@@ -27,7 +24,6 @@ Currently experimenting with and working on improving my GitHub repos and their 
 
 **Server:** PHP
 
-
 ## 📝 Optimizations
 
 Optimizations made in the code? E.g. refactors, performance improvements, accessibility, etc.
@@ -36,7 +32,6 @@ Future improvements
 - [ ]   Upload and save images to database
 - [ ]   Upate website to most recent blog/image saved
 - [ ]   Fix SQL injection vulnerability in the update script (e.g. enter any book or author with an apostrophe in it.)
-
 
 ## 🧩 Version Control
 
