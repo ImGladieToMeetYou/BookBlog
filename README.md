@@ -24,6 +24,30 @@ Currently experimenting with and working on improving my GitHub repos and their 
 
 **Server:** PHP
 
+
+## 👩‍💻Run Locally
+As part of the assignment the project was run locally through a web server.
+
+### ◾️Web Server Set Up
+Download and install [XAMPP](https://www.apachefriends.org/about.html)
+- Disable "FileZilla", "Tomcat", "Mercury" in the installer.
+- Save the website files in the same directory as where the XAMPP was installed so you can access the web page later.
+
+Once installation is complete, open the **XAMPP Control Panel** application and select **start** in the Actions colloumn for the following modules:
+- Apache 
+- MySQL
+
+### ◾️Project Set Up
+
+Clone the project
+```bash
+  git clone https://github.com/ImGladieToMeetYou/BookBlog.git
+```
+
+### ◾️Start the server
+Access the Home webpage through the web server here: http://localhost/BookBlog/Pages/home.php
+
+
 ## 📝 Optimizations
 
 Optimizations made in the code? E.g. refactors, performance improvements, accessibility, etc.
