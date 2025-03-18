@@ -11,7 +11,8 @@ This simple blog was created from scratch in order to gain experience and unders
 Currently experimenting with and working on improving my GitHub repos and their respective ReadMe files to become better at documenting  :)
 ## 📸 Screenshots
 
-![App Screenshot](https://github.com/ImGladieToMeetYou/BookBlog/blob/main/BookBlog1.png)
+![App Screenshot](https://github.com/ImGladieToMeetYou/BookBlog/blob/main/Images/README/BookBlog1.png)
+![App_Screenshot](https://github.com/ImGladieToMeetYou/BookBlog/blob/main/Images/README/BookBlog2.png)
 
 
 
