@@ -32,9 +32,10 @@ Future improvements
 - [ ]   Upload and save images to database
 - [ ]   Upate website to most recent blog/image saved
 - [ ]   Fix SQL injection vulnerability in the update script (e.g. enter any book or author with an apostrophe in it.)
+- [ ]   Working links in mini menu
 
 ## 🧩 Version Control
 
-***initial commit*** - assignment submission uploaded to GitHub
+***initial commit*** was the assignment submission and recently uploaded to GitHub
 
 See CHANGELOG.md for further version updates to the project. 
